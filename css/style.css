@@ -1,0 +1,20 @@
+div{
+    text-align: center;
+  }
+  .input{
+    width:50%;
+  }
+  .genero{
+    margin-left: 10px;
+  }
+  .fotinha{
+    width:50%;
+  }
+  @media (max-width: 952px){
+    .fotinha{
+      width: 85%;
+    }
+    .tabela{
+      margin-left: -24px;
+    }
+  }
